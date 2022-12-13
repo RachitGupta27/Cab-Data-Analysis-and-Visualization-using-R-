@@ -1,7 +1,10 @@
 # Analyzing-Uber-Pickups-using-R
-* ### In this project we analyze the Uber Cab Pickup data in New York City and visualizes it using plots, heatmaps and dataframes using R Language
+* ### In this project we analyze the Uber Cab Pickup data in New York City and visualize it via plots, heatmaps and dataframes using R Language.
 
 ![Screenshot](Homepage.jpg)
+
+ ## Demo
+ https://rachitgupta27.github.io/Cab-Data-Analysis-and-Visualization-using-R-/
 
  ## About
  This is a Data Visualization and Analysis Project which aims to analyze the Uber Cabs data about various pickups made in the New York City using the R language. It uses various R Libraries like ggplot, ggthemes, lubridate, dplyr, tidyr etc. to analyze the various data available.
